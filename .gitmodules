@@ -71,10 +71,10 @@
 	url = https://github.com/backtracking/ocamlgraph.git
 [submodule "ocaml/opam_deps/cudf"]
 	path = ocaml/opam_deps/cudf
-	url = https://scm.gforge.inria.fr/anonscm/git/cudf/cudf.git
+	url = https://gitlab.com/irill/cudf.git
 [submodule "ocaml/opam_deps/dose"]
 	path = ocaml/opam_deps/dose
-	url = https://scm.gforge.inria.fr/anonscm/git/dose/dose.git
+	url = https://gitlab.com/irill/dose3.git
 [submodule "ocaml/opam_deps/uutf"]
 	path = ocaml/opam_deps/uutf
 	url = https://github.com/dbuenzli/uutf.git
