@@ -74,7 +74,8 @@
 	url = https://gitlab.com/irill/cudf.git
 [submodule "ocaml/opam_deps/dose"]
 	path = ocaml/opam_deps/dose
-	url = https://gitlab.com/irill/dose3.git
+	url = https://gitlab.com/pkuwangh/dose3.git
+	branch = arm-mediawiki-deps
 [submodule "ocaml/opam_deps/uutf"]
 	path = ocaml/opam_deps/uutf
 	url = https://github.com/dbuenzli/uutf.git
