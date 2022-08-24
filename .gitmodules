@@ -47,7 +47,8 @@
     url = https://github.com/facebook/fatal
 [submodule "ocaml/src"]
     path = ocaml/src
-    url = https://github.com/ocaml/ocaml.git
+    url = https://github.com/pkuwangh/ocaml.git
+    branch = arm-mediawiki-deps-3.29.1
 [submodule "ocaml/ocamlbuild"]
     path = ocaml/ocamlbuild
     url = https://github.com/ocaml/ocamlbuild
@@ -71,10 +72,11 @@
 	url = https://github.com/backtracking/ocamlgraph.git
 [submodule "ocaml/opam_deps/cudf"]
 	path = ocaml/opam_deps/cudf
-	url = https://scm.gforge.inria.fr/anonscm/git/cudf/cudf.git
+	url = https://gitlab.com/irill/cudf.git
 [submodule "ocaml/opam_deps/dose"]
 	path = ocaml/opam_deps/dose
-	url = https://scm.gforge.inria.fr/anonscm/git/dose/dose.git
+	url = https://gitlab.com/pkuwangh/dose3.git
+	branch = arm-mediawiki-deps-3.29.1
 [submodule "ocaml/opam_deps/uutf"]
 	path = ocaml/opam_deps/uutf
 	url = https://github.com/dbuenzli/uutf.git
